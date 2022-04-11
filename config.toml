@@ -1,6 +1,6 @@
 baseURL = "https://jonathandmercado.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje del Explorer Jonathan Mercado"
+title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
